@@ -1,3 +1,4 @@
+# 觉得不错给个小星星
 # Weibo Comments Scraper
 
 这是一个用于抓取微博评论的 Python 脚本。它使用 `requests` 库来发送 HTTP 请求，并使用 `csv` 库来将数据保存到 CSV 文件中。
@@ -21,3 +22,5 @@
 
 ```bash
 pip install requests
+
+
